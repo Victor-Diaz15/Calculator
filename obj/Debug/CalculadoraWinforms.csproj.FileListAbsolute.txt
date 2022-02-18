@@ -1,0 +1,10 @@
+C:\Users\rubi\Desktop\Academico\4to_Cuatrimestre\Materias\Programacion2\CalculadoraWinforms\bin\Debug\CalculadoraWinforms.exe.config
+C:\Users\rubi\Desktop\Academico\4to_Cuatrimestre\Materias\Programacion2\CalculadoraWinforms\bin\Debug\CalculadoraWinforms.exe
+C:\Users\rubi\Desktop\Academico\4to_Cuatrimestre\Materias\Programacion2\CalculadoraWinforms\bin\Debug\CalculadoraWinforms.pdb
+C:\Users\rubi\Desktop\Academico\4to_Cuatrimestre\Materias\Programacion2\CalculadoraWinforms\obj\Debug\CalculadoraWinforms.csprojAssemblyReference.cache
+C:\Users\rubi\Desktop\Academico\4to_Cuatrimestre\Materias\Programacion2\CalculadoraWinforms\obj\Debug\CalculadoraWinforms.frm_calculator.resources
+C:\Users\rubi\Desktop\Academico\4to_Cuatrimestre\Materias\Programacion2\CalculadoraWinforms\obj\Debug\CalculadoraWinforms.Properties.Resources.resources
+C:\Users\rubi\Desktop\Academico\4to_Cuatrimestre\Materias\Programacion2\CalculadoraWinforms\obj\Debug\CalculadoraWinforms.csproj.GenerateResource.cache
+C:\Users\rubi\Desktop\Academico\4to_Cuatrimestre\Materias\Programacion2\CalculadoraWinforms\obj\Debug\CalculadoraWinforms.csproj.CoreCompileInputs.cache
+C:\Users\rubi\Desktop\Academico\4to_Cuatrimestre\Materias\Programacion2\CalculadoraWinforms\obj\Debug\CalculadoraWinforms.exe
+C:\Users\rubi\Desktop\Academico\4to_Cuatrimestre\Materias\Programacion2\CalculadoraWinforms\obj\Debug\CalculadoraWinforms.pdb
